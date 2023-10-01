@@ -1,4 +1,5 @@
 # mint_fundrop_mintfun
+
 Минт fundrop NFT
 wallets.txt вводим приватники 1 приватник одна строчка.
 
